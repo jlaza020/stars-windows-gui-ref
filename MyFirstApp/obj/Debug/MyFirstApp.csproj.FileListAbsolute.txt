@@ -1,0 +1,10 @@
+C:\vs_projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\vs_projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\vs_projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\vs_projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\vs_projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+C:\vs_projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.Cache
+C:\vs_projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\vs_projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:\vs_projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.MainForm.resources
+C:\vs_projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.LoginForm.resources
